@@ -2,7 +2,7 @@ SCRIPTS (no scripts are directly copied, all are made by myself or adjusted):
 1.	Custom loss function ( 3D gradient difference loss + MSE). 
 Script: MSE_and_GDL.py 
 2.	Data visualization of dosimetric values in csv files (multiple graphs + tables with MAE).
-Script: results.py
+Script: resultplots.py
 3.	Sheet creating script with patient information for data selection. 
 Main script: oefenen.py and uses sheet_helper_tag.py, mr1.py, struc2.py. 
 4.	Selected patient print script (select properties you want to print the selected patients).
